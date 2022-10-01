@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bars"
+        android:icon="@drawable/ic_bars"
+        android:title="Bars &amp; Flow"  />
+    <item
+        android:id="@+id/bag"
+        android:icon="@drawable/ic_bags"
+        android:title="In My Bag" />
+    <item
+        android:id="@+id/top_bag"
+        android:icon="@drawable/ic_badge"
+        android:title="Top Bag Gamers" />
+    <item
+        android:id="@+id/recent"
+        android:icon="@drawable/ic_recent"
+        android:title="Recent Activity" />
+    <item
+        android:id="@+id/news"
+        android:icon="@drawable/ic_news"
+        android:title="News/Let's Rap" />
+
+</menu>
